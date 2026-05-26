@@ -1,0 +1,13 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="card-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#07080A"/>
+      <stop offset="100%" stop-color="#0D1117"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#card-bg)"/>
+  <rect x="40" y="40" width="1120" height="550" rx="32" fill="none" stroke="#00DC82" stroke-opacity="0.25" stroke-width="2"/>
+  <text x="600" y="290" text-anchor="middle" font-family="sans-serif" font-weight="bold" font-size="120" fill="#00DC82">DEXignation</text>
+  <text x="600" y="360" text-anchor="middle" font-family="sans-serif" font-size="36" fill="#9CA3AF">Human-readable names for Polygon</text>
+  <text x="600" y="540" text-anchor="middle" font-family="monospace" font-size="22" fill="#374151">dexignation.com</text>
+</svg>

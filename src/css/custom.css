@@ -1,0 +1,29 @@
+/* SPDX-License-Identifier: MIT
+ *
+ * DEXignation theme overrides for Docusaurus.
+ * Docusaurus 테마 오버라이드.
+ */
+
+:root {
+  --ifm-color-primary: #00b86a;
+  --ifm-color-primary-dark: #00a35e;
+  --ifm-color-primary-darker: #009a59;
+  --ifm-color-primary-darkest: #007f49;
+  --ifm-color-primary-light: #00cd76;
+  --ifm-color-primary-lighter: #00d67b;
+  --ifm-color-primary-lightest: #0eeb8c;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+}
+
+[data-theme="dark"] {
+  --ifm-color-primary: #00dc82;
+  --ifm-color-primary-dark: #00c476;
+  --ifm-color-primary-darker: #00b86f;
+  --ifm-color-primary-darkest: #00985c;
+  --ifm-color-primary-light: #1ae28d;
+  --ifm-color-primary-lighter: #2ce594;
+  --ifm-color-primary-lightest: #5beba8;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+  --ifm-background-color: #0d1117;
+}

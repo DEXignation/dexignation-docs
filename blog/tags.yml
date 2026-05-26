@@ -1,0 +1,24 @@
+polygon:
+  label: Polygon
+  permalink: /tags/polygon
+  description: Posts about the Polygon network.
+
+solidity:
+  label: Solidity
+  permalink: /tags/solidity
+  description: Posts about Solidity contracts.
+
+ens:
+  label: ENS
+  permalink: /tags/ens
+  description: Posts about ENS or ENS-derived design.
+
+architecture:
+  label: Architecture
+  permalink: /tags/architecture
+  description: Posts about system architecture.
+
+nft:
+  label: NFT
+  permalink: /tags/nft
+  description: Posts about NFT mechanics.
